@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "781538985706",
+    "project_id": "tranzit-app-dff2b",
+    "storage_bucket": "tranzit-app-dff2b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781538985706:android:d03cbc0aa84ba0924a3993",
+        "android_client_info": {
+          "package_name": "com.example.ttranzit_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt8Q-Gr_u1PniZnDw1r5VZ1Tm1vRv93M4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
